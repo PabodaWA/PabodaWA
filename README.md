@@ -45,7 +45,7 @@ I'm an undergraduate at **SLIIT** who is passionate about coding and always eage
 ## 📫 Let's Connect!
 
 - 💬 Feel free to reach out for collaboration, learning, or just to say hi!
-- ✉️ [Add your email or LinkedIn here]
+- ✉️ wampaboda@gmail.com
 
 ---
 
