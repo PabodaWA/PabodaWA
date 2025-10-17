@@ -53,23 +53,3 @@ I'm an undergraduate at **SLIIT** who is passionate about coding and always eage
 
 Thanks for visiting my profile! 🚀
 
-<style>
-.avatar { position: relative; display:inline-block; }
-.avatar img { display:block; border-radius:50%; width:120px; height:120px; }
-.pro-pill {
-  position:absolute;
-  right:6px;
-  bottom:6px;
-  background:#ff5e57;
-  color:white;
-  padding:2px 6px;
-  border-radius:10px;
-  font-size:11px;
-  font-weight:700;
-}
-</style>
-
-<div class="avatar">
-  <img src="your-avatar.png" alt="avatar">
-  <div class="pro-pill">PRO</div>
-</div>
