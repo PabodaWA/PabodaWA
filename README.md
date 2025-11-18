@@ -15,7 +15,6 @@ I'm an undergraduate at **SLIIT** who is passionate about coding and always eage
 - 💻 Coding Enthusiast | Problem Solver
 - 🌱 Currently exploring more advanced topics & new languages
 - 💡 Always open to new ideas, collaborations, and cool projects!
-  
 
 </td>
 <td width="50%" align="center">
@@ -37,21 +36,13 @@ I'm an undergraduate at **SLIIT** who is passionate about coding and always eage
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MERN](https://img.shields.io/badge/MERN-Stack-000000?style=flat-square&logo=react&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-
----
-
-## 🌟 What I Love
-
-- Building creative web apps
-- Solving coding challenges
-- Learning new languages and frameworks
-- Collaborating with other passionate developers
 
 ---
 
@@ -64,8 +55,6 @@ I'm an undergraduate at **SLIIT** who is passionate about coding and always eage
 <h3 align="center">TROPHY</h3>
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KaveeshaMarasinghe&row=1&column=8&theme=onedark&column=8&no-frame=false&no-bg=false" alt="kaveeshamarasinghe" /></a> </p> <br>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
 ## 📫 Let's Connect!
 
@@ -77,4 +66,7 @@ I'm an undergraduate at **SLIIT** who is passionate about coding and always eage
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Thanks for visiting my profile! 🚀
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
