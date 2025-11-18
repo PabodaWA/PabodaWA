@@ -7,10 +7,24 @@ I'm an undergraduate at **SLIIT** who is passionate about coding and always eage
 
 ## 🚀 About Me
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🎓 Undergraduate at SLIIT
 - 💻 Coding Enthusiast | Problem Solver
 - 🌱 Currently exploring more advanced topics & new languages
 - 💡 Always open to new ideas, collaborations, and cool projects!
+  
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="370" src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
+  
+  </td>
+</tr>
+</table>
 
 ---
 
@@ -41,6 +55,11 @@ I'm an undergraduate at **SLIIT** who is passionate about coding and always eage
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabodaWA&layout=compact&theme=tokyonight)
 
 ---
+<h3 align="center">TROPHY</h3>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KaveeshaMarasinghe&row=1&column=8&theme=onedark&column=8&no-frame=false&no-bg=false" alt="kaveeshamarasinghe" /></a> </p> <br>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
 ## 📫 Let's Connect!
 
