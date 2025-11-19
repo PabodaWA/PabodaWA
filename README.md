@@ -70,7 +70,7 @@
 
 
 <h3 align="center">TROPHY</h3>
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KaveeshaMarasinghe&row=1&column=8&theme=onedark&column=8&no-frame=false&no-bg=false" alt="kaveeshamarasinghe" /></a> </p> <br>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PabodaWA&row=1&column=8&theme=onedark&column=8&no-frame=false&no-bg=false" alt="PabodaWA" /></a> </p> <br>
 
 
 ## 📫 Let's Connect!
