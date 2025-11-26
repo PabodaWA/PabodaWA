@@ -65,8 +65,9 @@
 
 ## 📈 GitHub Stats
 
-![Paboda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabodaWA&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabodaWA&layout=compact&theme=tokyonight)
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=PabodaWA&show_icons=true&locale=en&layout=compact" alt="PabodaWA" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PabodaWA&show_icons=true&locale=en" alt="PabodaWA" /></p>
 
 
 <h3 align="center">TROPHY</h3>
