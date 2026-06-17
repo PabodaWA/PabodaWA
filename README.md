@@ -1,6 +1,3 @@
-<p align="center"  >
-<img height="200" src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXF4ZGI2amQydzgwa2Y0dWdlc204MjNrcnFiY2xqc2NpbHRrOHkwbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.webp" />
-</p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Paboda Medhani</h1>
 <h3 align="center">Passionate IT Learner | Embracing the Future of Digital Innovation</h3>
 
@@ -78,14 +75,12 @@
 - 💬 Feel free to reach out for collaboration, learning, or just to say hi!
 - ✉️ wampaboda@gmail.com
 
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-Thanks for visiting my profile! 🚀
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN5NmZ3bjBsdDZxcDA1Yng3OHZ4ZW8xeXZnZ3k2NHpoMnQ0bWV6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VhujjAE2X8Jeej6bgT/giphy.gif" width="200" /></p>
 
----
+<p align="center">
+  Thanks for visiting my profile! 🚀
+</p>
+
 
