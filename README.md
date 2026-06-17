@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="370" src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hpY3BkMWp6dTJtNG9tdmVsZmFrc3cwNGF3c3V5dWk2NWpheDFndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JlJJU8Rd2QP4qxjNBc/giphy.gif" alt="Paboda Medhani GitHub profile banner" width="100%" />
   
   </td>
 </tr>
@@ -70,8 +70,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PabodaWA&show_icons=true&locale=en" alt="PabodaWA" /></p>
 
 
-<h3 align="center">TROPHY</h3>
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PabodaWA&row=1&column=8&theme=onedark&column=8&no-frame=false&no-bg=false" alt="PabodaWA" /></a> </p> <br>
+
 
 
 ## 📫 Let's Connect!
