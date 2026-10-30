@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="./For%20You%20Friends%20Sticker%20by%20Meet%20Me%20%40%20The%20Altar.gif" alt="For You Friends sticker background" />
+
 # Hi there, I'm Paboda Medhani 👋
 
 ### ✨ IT Undergraduate | Creative Developer | Lifelong Learner ✨
