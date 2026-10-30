@@ -85,4 +85,6 @@ Hi! I'm **Paboda**, an enthusiastic IT undergraduate at **SLIIT** who enjoys tur
 
 <div align="center">
   <i>Thanks for visiting my little corner of GitHub! Keep learning, keep creating, and keep shining. 🌸</i>
+  <br />
+  <img src="./As%20Seen%20On%20Tv%20Thank%20You%20Sticker%20by%20Rice%20Robot.gif" alt="Thank you" />
 </div>
