@@ -13,6 +13,10 @@
 
 </div>
 
+<div align="center">
+  <img src="./flower-rain.svg" width="900" alt="Animated falling flowers" />
+</div>
+
 ## 🌷 A Little About Me
 
 Hi! I'm **Paboda**, an enthusiastic IT undergraduate at **SLIIT** who enjoys turning creative ideas into practical and user-friendly software.
@@ -67,7 +71,6 @@ Hi! I'm **Paboda**, an enthusiastic IT undergraduate at **SLIIT** who enjoys tur
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=PabodaWA&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=omni&rank_icon=github&locale=en" alt="PabodaWA's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabodaWA&layout=compact&langs_count=8&hide_border=true&theme=omni&locale=en" alt="Top languages" />
 </div>
 
 <div align="center">

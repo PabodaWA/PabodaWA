@@ -1,0 +1,22 @@
+<svg width="900" height="120" viewBox="0 0 900 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF1FB"/>
+      <stop offset="0.5" stop-color="#FDF4FF"/>
+      <stop offset="1" stop-color="#FCE7F3"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" rx="18" fill="url(#bg)"/>
+  <g font-family="sans-serif" font-size="22">
+    <text x="45" y="-20">🌸<animate attributeName="y" values="-20;135" dur="4.8s" begin="0s" repeatCount="indefinite"/></text>
+    <text x="135" y="-35">🌷<animate attributeName="y" values="-35;135" dur="5.6s" begin="1.2s" repeatCount="indefinite"/></text>
+    <text x="230" y="-15">🌼<animate attributeName="y" values="-15;135" dur="4.3s" begin="2.1s" repeatCount="indefinite"/></text>
+    <text x="330" y="-40">🌸<animate attributeName="y" values="-40;135" dur="5.1s" begin="0.7s" repeatCount="indefinite"/></text>
+    <text x="430" y="-25">🌺<animate attributeName="y" values="-25;135" dur="4.6s" begin="2.8s" repeatCount="indefinite"/></text>
+    <text x="530" y="-45">🌷<animate attributeName="y" values="-45;135" dur="5.4s" begin="1.7s" repeatCount="indefinite"/></text>
+    <text x="630" y="-18">🌸<animate attributeName="y" values="-18;135" dur="4.9s" begin="3.1s" repeatCount="indefinite"/></text>
+    <text x="735" y="-38">🌼<animate attributeName="y" values="-38;135" dur="5.8s" begin="0.4s" repeatCount="indefinite"/></text>
+    <text x="835" y="-22">🌺<animate attributeName="y" values="-22;135" dur="4.5s" begin="2.4s" repeatCount="indefinite"/></text>
+  </g>
+  <text x="450" y="70" text-anchor="middle" fill="#BE185D" font-family="sans-serif" font-size="18" font-weight="600">Keep blooming, keep building ✨</text>
+</svg>
