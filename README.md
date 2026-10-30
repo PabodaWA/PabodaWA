@@ -66,8 +66,8 @@ Hi! I'm **Paboda**, an enthusiastic IT undergraduate at **SLIIT** who enjoys tur
 ## 📊 GitHub at a Glance
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PabodaWA&show_icons=true&hide_border=true&theme=omni&rank_icon=github" alt="PabodaWA's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabodaWA&layout=compact&hide_border=true&theme=omni" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PabodaWA&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=omni&rank_icon=github&locale=en" alt="PabodaWA's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabodaWA&layout=compact&langs_count=8&hide_border=true&theme=omni&locale=en" alt="Top languages" />
 </div>
 
 <div align="center">
