@@ -1,17 +1,14 @@
 <div align="center">
 
-
-# Hi there, I'm Paboda Medhani 👋
-
-### ✨ IT Undergraduate | Creative Developer | Lifelong Learner ✨
+<p> <h1>Hi there, I'm Paboda Medhani 👋</h1>
+✨ IT Undergraduate | Creative Developer | Lifelong Learner ✨ </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+beautiful+digital+experiences;Learning%2C+building%2C+and+growing+every+day;Code+with+purpose%2C+create+with+passion+%F0%9F%8C%B8" alt="Typing introduction" />
 
 <p>
   <img width="10%" src="./For%20You%20Friends%20Sticker%20by%20Meet%20Me%20%40%20The%20Altar.gif" alt="For You Friends sticker background" />
 
-  <a href="https://github.com/PabodaWA"><img src="https://komarev.com/ghpvc/?username=PabodaWA&label=Profile%20views&color=d946ef&style=flat" alt="Profile views" /></a>
-  <a href="mailto:wampaboda@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-wampaboda%40gmail.com-d946ef?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  
 </p>
 
 </div>
