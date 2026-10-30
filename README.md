@@ -13,9 +13,7 @@
 
 </div>
 
-<div align="center">
-  <img src="./flower-rain.svg" width="900" alt="Animated falling flowers" />
-</div>
+
 
 ## 🌷 A Little About Me
 
